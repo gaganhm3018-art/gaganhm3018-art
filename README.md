@@ -1,4 +1,4 @@
-# Hi there, I'm Gagan 👋
+# Hi there, I'm Gagan HM👋
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Information+Science+Student;Cybersecurity+%26+DevOps+Enthusiast;Exploring+Linux+%26+Systems" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **an AI-powered DevOps/security co-pilot for resource optimization**
+- 🔭 I'm currently working on **an AI-powered DevOps/security co-pilot for building scalable applications**
 - 🌱 I'm currently learning **linux and devops**
 - 👯 I'm looking to collaborate on **cybersecurity and DevOps open source projects**
-- ⚡ Fun fact: **<insert a fun personal fact or hobby here>**
+
 
 ---
 
